@@ -1,0 +1,29 @@
+Projekt dotyczy aplikacji wspierającej studentów w planowaniu nauki i zarządzaniu zadaniami. Rozwiązuje problem braku struktury, zapominania terminów i nadmiaru materiału do opanowania. Odbiorcami są studenci w wieku 18–25 lat, którzy potrzebują prostych narzędzi do organizacji obowiązków akademickich. Funkcjonalności obejmują listę zadań, tygodniowy kalendarz, przypomnienia oraz podstawowe statystyki postępów. System będzie prosty w obsłudze, z możliwością współdzielenia zadań i podstawową konfiguracją konta.
+
+Diagram przypadków użycia (ASCII)
+
+                      +--------------------------------------------------+
+                      |              System planowania nauki             |
+                      |                                                  |
+                      |    (Zaloguj się)    (Przeglądaj statystyki)     |
+                      |    (Zarejestruj się) (Udostępnij zadanie)       |
+                      |                                                  |
+                      |   (Dodaj zadanie)   (Przeglądaj kalendarz)      |
+                      |   (Edytuj zadanie)  (Ustaw przypomnienie)       |
+                      |   (Usuń zadanie)    (Śledź czas pracy)          |
+                      |                                                  |
+                      +--------------------------------------------------+
+         O
+        /|\                        |                  |
+       / | \                       |                  |
+      /  |  \                      |                  |
+     /   |   \---------------------|------------------|-----------------
+Student                      connects to use cases inside system        Admin
+  (aktor)                                       (aktor)
+                                                       O
+                                                      /|\
+                                                      / \
+Legenda:
+- Student: wykonuje działania typowe (Dodaj, Edytuj, Usuń zadanie; Przeglądaj kalendarz; Ustaw przypomnienie; Śledź czas; Udostępnij; Przeglądaj statystyki; Zaloguj się; Zarejestruj się).
+- Admin: zarządza kontami i konfiguracją systemu (logowanie, konfiguracja, zarządzanie użytkownikami).
+- Owalne etykiety w ramce to przypadki użycia dostępne w systemie planowania nauki.
