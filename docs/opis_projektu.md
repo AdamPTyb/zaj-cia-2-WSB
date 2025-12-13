@@ -1,1 +1,7 @@
+Opis 
 
+Projekt dotyczy aplikacji wspomagającej studentów w planowaniu nauki i zarządzaniu czasem.
+Rozwiązuje problem braku struktury, rozproszenia uwagi i nadmiaru materiału podczas studiów.
+Główną grupą odbiorców są osoby w wieku 18–25 lat, które chcą poprawić efektywność nauki i organizację zadań.
+W aplikacji znajdą się między innymi: lista zadań z priorytetami, kalendarz tygodniowy, przypomnienia oraz moduł prostych statystyk postępów.
+Celem projektu jest zwiększenie motywacji, redukcja stresu związanego z zarządzaniem materiałem i ułatwienie osiągania celów edukacyjnych.
