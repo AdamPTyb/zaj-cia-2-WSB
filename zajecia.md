@@ -1,3 +1,9 @@
+```mermaid
+flowchart TD
+    A[Start] --> B[Etap 1]
+    B --> C[Etap 2]
+    C --> D[Stop]
+```
 |nazwa kolumny|nazwa kolumny 2|nazwa kolumny 3|
 |---|---|---|
 |wiers 1a|wiersz 2b|wiersz 3c|
