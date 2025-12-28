@@ -1,4 +1,4 @@
-```%% Szablon flowchart Mermaid — zamień węzły zgodnie z Twoim ASCII
+```mermaid
 flowchart TD
     Start([Start]) --> Step1{Warunek 1}
     Step1 -- Tak --> ActionA[Akcja A]
@@ -9,5 +9,4 @@ flowchart TD
     Step2 -- Nie --> ActionD[Akcja D]
     ActionC --> End([Koniec])
     ActionD --> End
-    ([Koniec])
 ```
