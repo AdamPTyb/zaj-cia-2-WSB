@@ -1,17 +1,17 @@
 ### INSPIRACJE :bulb:
-- słowa: kreatywność, prototyp, minimalizm, użyteczność, dostępność, mobilność, szybkość, wizualizacja, automatyzacja, lokalność, ekologiczność
-- skojarzenia: tablica pomysłów, notatnik projektowy, mapa myśli, burza mózgów, lista zadań, portfolio, społeczność
-- pomysły: aplikacja do zbierania inspiracji, katalog projektów, generator pomysłów, system ocen i kolekcji, integracja z mapami i kalendarzem, tryb offline + synchronizacja
+- **słowa:** kreatywność, prototyp, minimalizm, użyteczność, dostępność, mobilność, szybkość, wizualizacja, automatyzacja, lokalność, ekologiczność
+- **skojarzenia:** tablica pomysłów, notatnik projektowy, mapa myśli, burza mózgów, lista zadań, portfolio, społeczność
+- **pomysły:** aplikacja do zbierania inspiracji, katalog projektów, generator pomysłów, system ocen i kolekcji, integracja z mapami i kalendarzem, tryb offline + synchronizacja
 
 ### KRÓTKA LISTA ELEMENTÓW PROJEKTU :notebook:
-- interfejs użytkownika (responsywny)
-- dodawanie/edycja/usuń itemów (pomysłów)
-- tagowanie i kategoryzacja
-- przeszukiwanie i filtrowanie
-- system ocen/komentarzy i udostępniania
-- panel administracyjny i zarządzanie użytkownikami
-- eksport/import (CSV, JSON) i API
-- powiadomienia i synchronizacja (offline/online)
+1. interfejs użytkownika (responsywny)
+2. dodawanie/edycja/usuń itemów (pomysłów)
+3. tagowanie i kategoryzacja
+4. przeszukiwanie i filtrowanie
+5. system ocen/komentarzy i udostępniania
+6. panel administracyjny i zarządzanie użytkownikami
+7. eksport/import (CSV, JSON) i API
+8. powiadomienia i synchronizacja (offline/online)
 
 ### WSTĘPNE DANE WEJŚCIOWE :arrow_left:
 - kategorie przykładowe: Inspiracje, Pomysły, Projekty, Zadania, Materiały, Referencje
