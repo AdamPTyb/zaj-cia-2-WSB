@@ -1,3 +1,5 @@
+# DIAGRAM :atom_symbol:
+
 ```mermaid
 flowchart TD
     A[Start] --> B{Czy użytkownik ma konto?}
